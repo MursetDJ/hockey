@@ -1,2 +1,1 @@
-# hockey
-es sobre hockey creo
+# Migthy Ducks Hockey League
